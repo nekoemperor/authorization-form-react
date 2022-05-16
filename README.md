@@ -1,4 +1,4 @@
-## React Project: Authorization Form (from CodeCademy)
+## Project with React: Authorization Form (Follow-Along Project from CodeCademy)
 
 In this project, I set up a simple a simple authorization layer/form on website with React component.
 
